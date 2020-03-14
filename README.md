@@ -1,6 +1,8 @@
 # OculusAlert
  Python script to check on oculus quest
- 
+ WARNING I DID THE CODE IN HALF AN HOUR TO 1 HOUR, SO IT MOST THAN CERTAIN HAS MANY FLAWS, USE IT AT YOUR OWN RISK.
+ ALSO IT WONT STEAL YOUR PASSWORD OR ANYTHING, EVERYTHING IS STORED LOCALLY.
+ IVE TESTED AND IT WORKS OK FOR ME ATLEAST.
  This is a script that i made very fast, so you can check for any update on oculus quest.
  i made a .exe file so its easier to make it work if  you dont want to use the script.
  requeriments:
