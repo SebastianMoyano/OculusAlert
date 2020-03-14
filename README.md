@@ -14,11 +14,11 @@
  
  1.- OculusAlert.exe and credential.txt must be in same dir 
  
- 2.- fill the credential.txt with email and password
+ 2.- Fill the credential.txt with email and password
  
- 3.- allow unsafe apps for gmail https://myaccount.google.com/lesssecureapps
+ 3.- Allow unsafe apps for gmail https://myaccount.google.com/lesssecureapps
  
- 4.- right click on OculusAlert.exe and open it
+ 4.- Right click on OculusAlert.exe and open it. After it may look like nothing happend but it should be working in the background. If you want you can verify in task manager and look for OculusAlert (I recommend this)
  
  with this it should be ready,it will check each minute the oculus page and notify any changes.
  
