@@ -11,8 +11,11 @@
  requeriments:
  
  1.- OculusAlert.exe and credential.txt must be in same dir (same goes for .py if your going to use it)
+ 
  2.- fill the credential.txt with email and password
+ 
  3.- allow unsafe apps for gmail https://myaccount.google.com/lesssecureapps
+ 
  4.- right click on OculusAlert.exe and open it
  
  with this it should be ready,it will check each minute the oculus page.
