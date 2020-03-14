@@ -8,6 +8,7 @@
  2.- allow unsafe apps for gmail https://myaccount.google.com/lesssecureapps
  3.- right click on OculusAlert.exe and open it
  with this it should be ready, each time your computer turns off you have to execute again.
+ I've test it in windows 10 pro
  
 sorry for the sloppy description, i will complete it in the next few days
  
